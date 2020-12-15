@@ -8,3 +8,5 @@ Since the creation of the MIDI protocol and the first synthesizers, the largemaj
 
 Please find here a picture of the instrument:
 
+
+![alt text](https://github.com/Marquets/SMC-Master-Thesis/blob/master/images/instrument.jpg)
