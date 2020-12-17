@@ -10,3 +10,10 @@ Please find here a picture of the instrument:
 
 
 ![alt text](https://github.com/Marquets/SMC-Master-Thesis/blob/master/images/instrument.jpg)
+
+
+# Video Demo
+
+
+[![Alt text for your video](images/FMZ_Video_Demo.gif)](https://www.youtube.com/watch?v=iXXueeGlFNA&feature=youtu.be&ab_channel=MarcoGonz%C3%A1lez)
+
