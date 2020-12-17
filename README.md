@@ -14,6 +14,7 @@ Please find here a picture of the instrument:
 
 # Video Demo
 
+Click on the gif to see the video demo!
 
-[![Alt text for your video](images/FMZ_Video_Demo.gif)](https://www.youtube.com/watch?v=iXXueeGlFNA&feature=youtu.be&ab_channel=MarcoGonz%C3%A1lez)
+[![Click on the gif to see the video](images/FMZ_Video_Demo.gif)](https://www.youtube.com/watch?v=iXXueeGlFNA&feature=youtu.be&ab_channel=MarcoGonz%C3%A1lez)
 
